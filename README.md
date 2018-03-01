@@ -1,2 +1,2 @@
 # southcoders
-A place for everything and everything in it's place.
+A place for everything and everything in its place.
